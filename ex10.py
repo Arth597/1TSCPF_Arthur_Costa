@@ -12,6 +12,8 @@ for i in range(x):
           print(segundos - 1)
 
 
+blaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
 
 
 
