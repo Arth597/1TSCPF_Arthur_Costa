@@ -8,3 +8,4 @@ if palavra == invertida:
     print(f'{palavra} É um palindromo')
 else:
     print('Não é um palindromo')
+EDITADO
